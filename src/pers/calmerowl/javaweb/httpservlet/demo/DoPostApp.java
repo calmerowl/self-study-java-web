@@ -62,6 +62,8 @@ public class DoPostApp extends HttpServlet {
         }
         //----请求体相关--------------------------------------------------------------------------
         System.out.println("----请求体相关--------------------------------------------------------------------------");
+        //中文乱码问题处理
+        req.setCharacterEncoding("utf-8");
 //        //获取请求体注意事项，使用流读和getParameter方式是有冲突的，不能同时使用
 //        //获取请求体数据
 //        BufferedReader br = req.getReader();
