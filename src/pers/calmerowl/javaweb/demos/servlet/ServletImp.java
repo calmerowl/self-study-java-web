@@ -1,4 +1,4 @@
-package pers.calmerowl.javaweb.servlet.demo;
+package pers.calmerowl.javaweb.demos.servlet;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;

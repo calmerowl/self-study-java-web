@@ -1,4 +1,4 @@
-package pers.calmerowl.javaweb.httpservlet.demo;
+package pers.calmerowl.javaweb.demos.httpservlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

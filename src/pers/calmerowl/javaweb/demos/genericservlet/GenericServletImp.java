@@ -1,4 +1,4 @@
-package pers.calmerowl.javaweb.genericservlet.demo;
+package pers.calmerowl.javaweb.demos.genericservlet;
 
 import javax.servlet.GenericServlet;
 import javax.servlet.ServletException;
